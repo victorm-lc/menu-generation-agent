@@ -1,0 +1,12 @@
+[project]
+name = "menu-design-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-openai>=0.3.30",
+    "langgraph>=0.6.4",
+]
