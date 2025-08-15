@@ -1,6 +1,6 @@
 {
     "graphs": {
-      "menu_generator": "./agent.py:graph"
+      "menu_generator": "./src/agent.py:graph"
     },
     "python_version": "3.11",
     "env": ".env",
