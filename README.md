@@ -1,5 +1,7 @@
 # Menu Generation Agent
 
+ ![Screenshot](./images/graph.png)
+
 A LangGraph-powered agent that generates restaurant menu concepts from PDF reports and creates visual menu designs with iterative user feedback.
 
 ## Overview
