@@ -24,7 +24,7 @@ This project uses **uv** as the package manager for dependency management.
 
 1. Install dependencies:
 ```bash
-uv syncim 
+uv sync
 ```
 
 2. Start the local LangGraph server:
