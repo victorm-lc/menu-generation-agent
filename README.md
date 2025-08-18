@@ -40,14 +40,12 @@ langgraph dev
 ## Project Structure
 
 - `agent.py` - Main LangGraph agent implementation
-- `configuration.py` - Agent configuration and context
 - `langgraph.json` - LangGraph server configuration
 
 ## Features
 
 
 - **Feedback Loops** - Iterative improvement based on user input  
-- **Flexible Configuration** - Configurable models and prompts
 - **State Management** - Robust state tracking through the workflow
 
 ## Development
