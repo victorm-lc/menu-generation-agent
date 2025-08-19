@@ -29,6 +29,11 @@ uv sync
 langgraph dev
 ```
 
+3. Example input
+```markdown
+generate me a menu for Joe's Pizza in Brooklyn NY featuring basic deals by the slice, keep it simple.
+```
+
 ## Usage
 
 
